@@ -15,5 +15,20 @@ it was a 4-day collaborative project which were developed by me and my team
   
 Tech-stacks : HTML , CSS , JavaScript
 
+
+1) AMAN KUMAR
+
+2) SNEHIL GUPTA
+
+3) PARATH SARATHI MANNA
+
+4) JYOTI
+
+5) ANJANI
+
+6) ROBIN ROY
+
+Go live : https://peppy-kulfi-5a366d.netlify.app/
+
 ![1](https://user-images.githubusercontent.com/66555692/192964870-4c91b156-1134-4581-b3b0-576f8541a285.jpg)
 
