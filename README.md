@@ -14,3 +14,6 @@ it was a 4-day collaborative project which were developed by me and my team
   I was given the task to build the Home page of the website and make the website responsive for all device
   
 Tech-stacks : HTML , CSS , JavaScript
+
+![1](https://user-images.githubusercontent.com/66555692/192964870-4c91b156-1134-4581-b3b0-576f8541a285.jpg)
+
